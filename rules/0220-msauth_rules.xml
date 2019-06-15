@@ -805,7 +805,6 @@
     <info type="link">https://support.microsoft.com/kb/243330</info>
   </rule>
 
-
   <rule id="18257" level="3">
     <if_sid>18101</if_sid>
     <id>^200$|^300$|^302$</id>
